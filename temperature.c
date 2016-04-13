@@ -9,7 +9,7 @@ int main() {
         return 0;
     }
     else {
-        celc = (fahr - 32) * 5/9;                            \
+        celc = (fahr - 32) * 5/9;                            
         printf("%.1f degrees Fahrenheit is %.3f degrees celcius\n", fahr, celc);
         
     }
